@@ -3,9 +3,9 @@ Check out my [**Portfolio Webpage**](https://wagerc97.github.io/) 😄
 
 💬 Currently studying the MSc. Computational Science in Vienna <br>
 🤔 I like simulations and solving complex problems <br>
-🌱 Biologist by heart
+<!--🌱 Biologist by heart
 
-<!--
+
 **wagerc97/wagerc97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
