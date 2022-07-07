@@ -2,7 +2,7 @@
 Check out my [**Portfolio Webpage**](https://wagerc97.github.io/) 😄
 
 💬 Currently studying the MSc. Computational Science in Vienna <br>
-🤔 I like simulations and solving complex problems <br>
+🤔 I like modelling, simulations and solving complex problems <br>
 <!--🌱 Biologist by heart
 
 
