@@ -15,7 +15,7 @@
 </p>
 
 
-## [👉 **Portfolio Webpage** 👈](https://wagerc97.github.io/) 
+## [👉 **My Webpage** 👈](https://wagerc97.github.io/) 
 
 * 📖 Pursuing MSc degree in Compuataional Science @ [University of Vienna](https://studieren.univie.ac.at/en/degree-programmes/master-programmes/computational-science-master/).  <br>
 * 💻 Open to collaborating on projects and innovative ideas.  <br>
