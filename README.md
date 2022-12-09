@@ -3,7 +3,7 @@
   <a href="https://wagerc97.github.io/">
       <img src="https://img.shields.io/badge/Webpage-red?style=3D-square">
   </a>   
-  <a href="https://www.linkedin.com/in/clemens-wager/">
+  <a href="https://www.linkedin.com/in/clemens-wager/?locale=en_US">
       <img src="https://img.shields.io/badge/Linkedin-blue?style=3D-square&logo=linkedin">
   </a>
   <a href="https://www.kaggle.com/wagerc97">
