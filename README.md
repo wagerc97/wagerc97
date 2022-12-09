@@ -23,10 +23,10 @@
 <!-- * 🎓 Researching on **ML** and **Magnetism** @ [DUK x Uni Vie](...link).  <br> -->
 
 
+<!-- text typing -->
 <p align="center">
-    <!-- text typing -->
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2100&pause=5&color=2A93CA&background=D8D8D800&center=true&vCenter=true&multiline=true&width=440&height=105&lines=Clemens+Wager;Computational+Science+%F0%9F%8E%93;ML+%7C+Automation%7C+Software+Developer;.+++++.+++++.+++++.++++++%F0%9F%92%A1" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2100&pause=5&color=2A93CA&background=D8D8D800&center=true&vCenter=true&multiline=true&width=440&height=105&lines=Clemens+Wager;Computational+Science+%F0%9F%8E%93;ML+%7C+Simulation+%7C+Automation;.+++++.+++++.+++++.++++++%F0%9F%92%A1" alt="Typing SVG" />
     </a>
 </p>
 <!-- Stats -->
