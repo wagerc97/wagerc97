@@ -18,8 +18,8 @@
 ## [👉 **My Webpage** 👈](https://wagerc97.github.io/) 
 
 * 📖 Pursuing MSc degree in Compuataional Science @ [University of Vienna](https://studieren.univie.ac.at/en/degree-programmes/master-programmes/computational-science-master/).  <br>
-* 💻 Open to collaborating on projects and innovative ideas.  <br>
 * 💡 Interested in ML, Modeling & Simulations.    <br>
+* 💻 Open to collaborating on projects and innovative ideas.  <br>
 <!-- * 🎓 Researching on **ML** and **Magnetism** @ [DUK x Uni Vie](...link).  <br> -->
 
 
@@ -29,6 +29,8 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2100&pause=5&color=2A93CA&background=D8D8D800&center=true&vCenter=true&multiline=true&width=440&height=105&lines=Clemens+Wager;Computational+Science+%F0%9F%8E%93;ML+%7C+Simulation+%7C+Automation;.+++++.+++++.+++++.++++++%F0%9F%92%A1" alt="Typing SVG" />
     </a>
 </p>
+
+
 <!-- Stats -->
 <p align="center">
   <a href="https://github.com/wagerc97">
@@ -40,9 +42,9 @@
 <!-- Detailed stats -->
 <details>
 <summary>📈 My Github Stats</summary>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wagerc97&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wagerc97&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wagerc97&theme=dracula)
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wagerc97&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wagerc97&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wagerc97&theme=nord_bright)
 
 </details>
