@@ -3,17 +3,16 @@
   <a href="https://wagerc97.github.io/">
       <img src="https://img.shields.io/badge/Webpage-red?style=3D-square">
   </a>   
+  <a href="https://www.kaggle.com/wagerc97">
+      <img src="https://img.shields.io/badge/Kaggle-gray?style=3D-square&logo=Kaggle">
+  </a>
   <a href="https://www.linkedin.com/in/clemens-wager/?locale=en_US">
       <img src="https://img.shields.io/badge/Linkedin-blue?style=3D-square&logo=linkedin">
-  </a>
-  <a href="https://www.kaggle.com/wagerc97">
-      <img src="https://img.shields.io/badge/Kaggle-black?style=3D-square&logo=Kaggle">
   </a>
     <a href="https://pypi.org/user/wagerc97/">
         <img src="https://komarev.com/ghpvc/?username=wagerc97&label=Visitors&color=0e75b6&style=3D" alt="googoldkhan" />
     </a>
 </p>
-
 
 ## [👉 **My Webpage** 👈](https://wagerc97.github.io/) 
 
