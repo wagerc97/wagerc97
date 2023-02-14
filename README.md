@@ -19,7 +19,7 @@
 * 📖 Pursuing MSc degree in Compuataional Science @ [University of Vienna](https://studieren.univie.ac.at/en/degree-programmes/master-programmes/computational-science-master/).  <br>
 * 💡 Interested in ML, Modeling & Simulations.    <br>
 * 💻 Open to collaborating on projects and innovative ideas.  <br>
-* 🎓 Researching on Permanent Magnets with ML @[Project MagLearn (DUK x UniVie)](https://www.donau-uni.ac.at/en/university/faculties/education-arts-architecture/departments/integrated-sensor-systems/centers/modelling-and-simulation/projects/maglearn.html).  <br>
+* 🎓 Researching on Permanent Magnets with ML @ [Project MagLearn (DUK x UniVie)](https://www.donau-uni.ac.at/en/university/faculties/education-arts-architecture/departments/integrated-sensor-systems/centers/modelling-and-simulation/projects/maglearn.html).  <br>
 
 
 <!-- text typing -->
