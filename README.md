@@ -1,7 +1,7 @@
 <!-- Links top right --> 
 <p align="right">
   <a href="https://wagerc97.github.io/">
-      <img src="https://img.shields.io/badge/Webpage-red?style=3D-square">
+      <img src="https://img.shields.io/badge/Webpage-red?style=3D-square&logo=replit&logoColor=black">
   </a>   
   <a href="https://www.kaggle.com/wagerc97">
       <img src="https://img.shields.io/badge/Kaggle-gray?style=3D-square&logo=Kaggle">
