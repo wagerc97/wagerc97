@@ -2,16 +2,26 @@
 <p align="right">
   <a href="https://wagerc97.github.io/">
       <img src="https://img.shields.io/badge/Webpage-red?style=3D-square&logo=replit&logoColor=black">
-  </a>   
+  </a>
   <a href="https://www.kaggle.com/wagerc97">
       <img src="https://img.shields.io/badge/Kaggle-gray?style=3D-square&logo=Kaggle">
   </a>
   <a href="https://www.linkedin.com/in/clemens-wager/?locale=en_US">
       <img src="https://img.shields.io/badge/Linkedin-blue?style=3D-square&logo=linkedin">
   </a>
-    <a href="https://pypi.org/user/wagerc97/">
-        <img src="https://komarev.com/ghpvc/?username=wagerc97&label=Visitors&color=0e75b6&style=3D" alt="googoldkhan" />
-    </a>
+  <a href="https://pypi.org/user/wagerc97/">
+      <img src="https://komarev.com/ghpvc/?username=wagerc97&label=Visitors&color=0e75b6&style=3D" alt="googoldkhan" />
+  </a>
+  <a href="https://www.buymeacoffee.com/wagerc97" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" 
+         alt="Buy Me A Coffee" 
+         style=
+         "height: 21px !important;
+         width: 100px !important; 
+         box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;
+         -webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"
+  </a>
+
 </p>
 
 ## [👉 **My Webpage** 👈](https://wagerc97.github.io/) 
