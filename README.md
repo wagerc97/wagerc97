@@ -12,7 +12,7 @@
   <a href="https://pypi.org/user/wagerc97/">
       <img src="https://komarev.com/ghpvc/?username=wagerc97&label=Visitors&color=0e75b6&style=3D" alt="googoldkhan" />
   </a>
-  <a href="https://www.buymeacoffee.com/wagerc97" target="_blank">
+  <!--a href="https://www.buymeacoffee.com/wagerc97" target="_blank">
     <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" 
          alt="Buy Me A Coffee" 
          style=
@@ -20,7 +20,7 @@
          width: 100px !important; 
          box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;
          -webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"
-  </a>
+  </a-->
 
 </p>
 
