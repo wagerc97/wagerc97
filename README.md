@@ -26,10 +26,11 @@
 
 ## [👉 **My Webpage** 👈](https://wagerc97.github.io/) 
 
-* 📖 Holding an MSc degree in Computational Science from [University of Vienna](https://studieren.univie.ac.at/en/degree-programmes/master-programmes/computational-science-master/).  <br>
+* 📖 Holding an MSc degree in [Computational Science](https://ssc-physik.univie.ac.at/en/studying/msc-computational-science-version-2022/msc-computational-science-version-2013-ending/) from [University of Vienna](https://studieren.univie.ac.at/en/degree-programmes/master-programmes/computational-science-master/).  <br>
 * 💡 Interested in ML, Modeling & Simulations.    <br>
 * 💻 Open to collaborating on projects and innovative ideas.  <br>
-* 🎓 Researching on Permanent Magnets with ML @ [Project MagLearn (UCE Krems)](https://www.donau-uni.ac.at/en/university/faculties/education-arts-architecture/departments/integrated-sensor-systems/centers/modelling-and-simulation/projects/maglearn.html) for my doctoral study.  <br>
+* 🎓 Pursuing a PhD @[TU Vienna](https://www.tuwien.at/en/).   <br>
+* 🧲 Researching on Permanent Magnets with ML @ [Project MagLearn (UCE Krems)](https://www.donau-uni.ac.at/en/university/faculties/education-arts-architecture/departments/integrated-sensor-systems/centers/modelling-and-simulation/projects/maglearn.html).  <br>
 
 
 <!-- text typing -->
