@@ -27,7 +27,7 @@
 ## Visit my [**Homepage**](https://wagerc97.github.io/) 
 
 * 🎓 Pursuing a PhD degree @[University of Vienna](https://www.univie.ac.at/en/).<br>
-* 🧲 Researcher in the field of micromagnetism: Computational material design for permanent magnets @[Project MagLearn (UCE Krems x Toyota)](https://www.donau-uni.ac.at/en/university/faculties/education-arts-architecture/departments/integrated-sensor-systems/centers/modelling-and-simulation/projects/maglearn.html).<br>
+* 🧲 Researcher in the field of micromagnetism @[Project MagLearn (UCE Krems x Toyota)](https://www.donau-uni.ac.at/en/university/faculties/education-arts-architecture/departments/integrated-sensor-systems/centers/modelling-and-simulation/projects/maglearn.html) for computational material design for permanent magnets through physics informed machine learning.<br>
 * 📖 Background in [Computational Science](https://ssc-physik.univie.ac.at/en/studying/msc-computational-science-version-2022/msc-computational-science-version-2013-ending/) from [University of Vienna](https://studieren.univie.ac.at/en/degree-programmes/master-programmes/computational-science-master/).<br>
 * 💡 Interested in ML, Modeling & Simulations.<br>
 * 💻 Open to collaborating on projects and innovative ideas.<br>
