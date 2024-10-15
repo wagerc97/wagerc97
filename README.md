@@ -24,7 +24,7 @@
 
 </p>
 
-## [👉 **My Webpage** 👈](https://wagerc97.github.io/) 
+## Visit my [**Homepage**](https://wagerc97.github.io/) 
 
 * 🎓 Pursuing a PhD degree @[TU Vienna](https://www.tuwien.at/en/).   <br>
 * 📖 Background in [Computational Science](https://ssc-physik.univie.ac.at/en/studying/msc-computational-science-version-2022/msc-computational-science-version-2013-ending/) from [University of Vienna](https://studieren.univie.ac.at/en/degree-programmes/master-programmes/computational-science-master/).  <br>
