@@ -26,17 +26,17 @@
 
 ## Visit my [**Homepage**](https://wagerc97.github.io/) 
 
-* 🎓 Pursuing a PhD degree @[TU Vienna](https://www.tuwien.at/en/).   <br>
-* 📖 Background in [Computational Science](https://ssc-physik.univie.ac.at/en/studying/msc-computational-science-version-2022/msc-computational-science-version-2013-ending/) from [University of Vienna](https://studieren.univie.ac.at/en/degree-programmes/master-programmes/computational-science-master/).  <br>
-* 💡 Interested in ML, Modeling & Simulations.    <br>
-* 💻 Open to collaborating on projects and innovative ideas.  <br>
-* 🧲 Researching in computational material design for permanent magnets @[Project MagLearn (UCE Krems x Toyota)](https://www.donau-uni.ac.at/en/university/faculties/education-arts-architecture/departments/integrated-sensor-systems/centers/modelling-and-simulation/projects/maglearn.html).  <br>
+* 🎓 Pursuing a PhD degree @[University of Vienna](https://www.univie.ac.at/en/).<br>
+* 🧲 Researcher in the field of micromagnetism: Computational material design for permanent magnets @[Project MagLearn (UCE Krems x Toyota)](https://www.donau-uni.ac.at/en/university/faculties/education-arts-architecture/departments/integrated-sensor-systems/centers/modelling-and-simulation/projects/maglearn.html).<br>
+* 📖 Background in [Computational Science](https://ssc-physik.univie.ac.at/en/studying/msc-computational-science-version-2022/msc-computational-science-version-2013-ending/) from [University of Vienna](https://studieren.univie.ac.at/en/degree-programmes/master-programmes/computational-science-master/).<br>
+* 💡 Interested in ML, Modeling & Simulations.<br>
+* 💻 Open to collaborating on projects and innovative ideas.<br>
 
 
 <!-- text typing -->
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2100&pause=5&color=2A93CA&background=D8D8D800&center=true&vCenter=true&multiline=true&width=440&height=105&lines=Clemens+Wager;Computational+Science+%F0%9F%8E%93;ML+%7C+Simulation+%7C+Automation;.+++++.+++++.+++++.++++++%F0%9F%92%A1" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2100&pause=5&color=2A93CA&background=D8D8D800&center=true&vCenter=true&multiline=true&width=440&height=105&lines=Clemens+Wager;Computational+Science+%F0%9F%8E%93;ML+%7C+Simulation+%7C+Development;.+++++.+++++.+++++.++++++%F0%9F%92%A1" alt="Typing SVG" />
     </a>
 </p>
 
